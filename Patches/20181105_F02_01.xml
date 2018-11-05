@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DECLARE>
+<PhysicalTable name="PRODUCT" parentName="&quot;ORCL&quot;..&quot;SH&quot;" parentId="3027:10" parentUid="00000000-9e0c-15dc-806e-0a0a0a0a0000" id="3001:36" uid="0000001a-9e0c-15dc-806e-0a0a0a0a0000" type="none" rowCount="72.0" lastUpdated="2016-06-28 19:00:37" maxConn="0">
+<DBMap>
+<Item name="DefaultMulDB">
+<Value><![CDATA[PRODUCT]]></Value>
+</Item>
+</DBMap>
+<XSLT></XSLT>
+<XSDSchema></XSDSchema>
+</PhysicalTable>
+
+</DECLARE>
+</Repository>

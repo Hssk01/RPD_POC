@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DECLARE>
+<PhysicalColumn name="PROD_CATEGORY_1" parentName="&quot;ORCL&quot;..&quot;SH&quot;.&quot;D2 PRODUCTS&quot;" parentId="3001:150" parentUid="00000000-9e51-15dc-806e-0a0a0a0a0000" id="3003:151" uid="00000001-9e51-15dc-806e-0a0a0a0a0000" dataType="VARCHAR" precision="50" rowCount="5.0" lastUpdated="2016-06-28 19:00:38" specialType="none">
+<SourceColumn>
+<RefPhysicalColumn id="3003:37" uid="0000001b-9e0c-15dc-806e-0a0a0a0a0000" qualifiedName="&quot;ORCL&quot;..&quot;SH&quot;.&quot;PRODUCT&quot;.&quot;PROD_CATEGORY_1&quot;"/>
+</SourceColumn>
+</PhysicalColumn>
+
+<PhysicalColumn name="PROD_CATEGORY_1" parentName="&quot;ORCL&quot;..&quot;SH&quot;.&quot;PRODUCT&quot;" parentId="3001:36" parentUid="0000001a-9e0c-15dc-806e-0a0a0a0a0000" id="3003:37" uid="0000001b-9e0c-15dc-806e-0a0a0a0a0000" dataType="VARCHAR" precision="50" rowCount="5.0" lastUpdated="2016-06-28 19:00:38" specialType="none">
+</PhysicalColumn>
+
+</DECLARE>
+</Repository>
